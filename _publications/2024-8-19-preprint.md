@@ -4,7 +4,7 @@ collection: publications
 category: preprint
 permalink: /publication/2024-8-19-preprint
 excerpt: 'A preprint with friends in Sustainablecity'
-date: 2024-8-19
+date: 2024-08-19
 citation: 'Wang, S., Zhao, Z., Xie, Y., Ma, M., Chen, Z., Wang, Z., Su, B., Xu, W. and Li, T. (2024) ‘Recent Surge in Public Interest in Transportation: Sentiment Analysis of Baidu Apollo Go Using Weibo Data’. arXiv. Available at: https://doi.org/10.48550/arXiv.2408.10088.'
 ---
 
