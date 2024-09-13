@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Geographic Information Science make me happy."
+title: "GIS makes me happy."
 author_profile: true
 redirect_from: 
   - /about/
